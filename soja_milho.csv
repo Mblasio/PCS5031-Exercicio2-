@@ -1,11 +1,11 @@
-SÈries temporais reais de preÁos dos produtos soja e milho.;;;;;;
-Soja: Indicador de preÁos de Soja, comercializados no estado do Paran·, em R$ e  sc/60kg.;;;;;;
-Milho: Indicador de preÁos de Milho, comercializados na regi„o de Campinas-SP, em R$ e sc/60kg.;;;;;;
+S√©ries temporais reais de pre√ßos dos produtos soja e milho.;;;;;;
+Soja: Indicador de pre√ßos de Soja, comercializados no estado do Paran√°, em R$ e  sc/60kg.;;;;;;
+Milho: Indicador de pre√ßos de Milho comercializados na regi√£o de Campinas-SP em R$ e sc/60kg.;;;;;;
 Fonte: www.cepea.esalq.usp.br;;;;;;
-PerÌodo: Dados di·rios de 02/01/2014 a 30/12/2015;;;;;;
+Per√≠odo: Dados di√°rios de 02/01/2014 a 30/12/2015;;;;;;
 Total de datas: 498 dias;;;;;;
 ;;;;;;
-ObservaÁ„o;Data;MÍs;Ano - Safra;PreÁos - Milho;PreÁos - Soja;
+Observa√ß√£o;Data;M√™s;Ano - Safra;Pre√ßos - Milho;Pre√ßos - Soja;
 1;02/01/2014;1;2014; R$ 26,64 ; R$ 72,18 ;
 2;03/01/2014;1;2014; R$ 27,00 ; R$ 71,42 ;
 3;06/01/2014;1;2014; R$ 27,29 ; R$ 71,38 ;
